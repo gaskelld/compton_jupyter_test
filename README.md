@@ -1,1 +1,1 @@
-# compton_jupyter_test
+Test repository for use with binder
